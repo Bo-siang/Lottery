@@ -1,0 +1,45 @@
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\ASUS\Desktop\Ryan Huang\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.Form1.resources
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\iSpan\Desktop\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.pdb
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\bin\Debug\Lottery.exe.config
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\bin\Debug\Lottery.exe
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\bin\Debug\Lottery.pdb
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.exe
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.pdb
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.MainPage.resources
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.ResultPage.resources
+D:\Ryan Huang\C#\HW\HW-Lottery\Lottery\obj\Debug\Lottery.ModeNotification.resources
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.MainPage.resources
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.ModeNotification.resources
+C:\Users\ASUS\Desktop\HW-Lottery\Lottery\obj\Debug\Lottery.ResultPage.resources
